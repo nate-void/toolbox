@@ -1,0 +1,5 @@
+{
+  "name": "Smart-Captcha-Suite",
+  "description": "A modern, high-fidelity captcha verification toolset featuring a responsive sidebar, dark mode support, and a customizable 3x3 image selection captcha challenge.",
+  "requestFramePermissions": []
+}
