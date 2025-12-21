@@ -9,11 +9,8 @@ export default defineConfig(({ mode }) => {
         port: 3000,
         host: '0.0.0.0',
       },
-      plugins: [react()],
-      // 如果是 GitHub 部署则使用仓库名作为二级目录，否则使用根目录
       base: mode === 'github' ? '/toolbox/' : '/',
-      define: {
-      },
+      plugins: [react()],
       resolve: {
         alias: {
           '@': path.resolve(__dirname, '.'),

@@ -18,7 +18,12 @@
 
 ## 🚀 快速开始
 
-本项目是一个纯前端 React 应用，无需后端支持。
+```bash
+git clone https://github.com/nate-void/toolbox.git
+cd toolbox
+pnpm i
+pnpm run
+```
 
 ### 技术栈
 - **React 19** - UI 渲染
@@ -26,13 +31,7 @@
 - **Framer Motion** - 丝滑的交互动画
 - **Lucide React** - 优雅的图标库
 
-### 如何运行
-```bash
-git clone https://github.com/nate-void/toolbox.git
-cd toolbox
-pnpm i
-pnpm run
-```
+
 
 ## 📁 项目结构
 

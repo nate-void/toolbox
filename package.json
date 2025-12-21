@@ -1,5 +1,5 @@
 {
-  "name": "smart-captcha-suite",
+  "name": "copy-of-toolbox-modern-platform",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,11 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "framer-motion": "^12.23.26",
-    "lucide-react": "^0.562.0",
-    "react": "^19.2.3",
     "react-dom": "^19.2.3",
-    "react-router": "^7.11.0"
+    "react-router-dom": "^7.11.0",
+    "react": "^19.2.3",
+    "framer-motion": "^12.23.26",
+    "@mui/material": "^6.1.0",
+    "@mui/icons-material": "^6.1.0",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "lucide-react": "^0.562.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
